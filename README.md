@@ -1,16 +1,30 @@
-## Hi there 👋
+Vinicius 👨‍💻
+🎓 Estudante de Análise e Desenvolvimento de Sistemas - Senac
+💡 Interesse em desenvolvimento web, programação e tecnologia
+🚀 Buscando evoluir e contribuir com projetos reais
 
-<!--
-**Marcosvini1940/Marcosvini1940** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tecnologias
+HTML | CSS | JavaScript
+React (iniciando)
+Node.js | PHP (básico)
+MySQL | SQLite
+Git | GitHub | VS Code
 
-Here are some ideas to get you started:
+📂 Projetos
+Exercícios da faculdade
+Projetos pessoais e testes
+Aprendizado contínuo com foco prático
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Estudando
+Lógica de programação
+Estrutura de dados
+Desenvolvimento Web
+Versionamento com Git
+
+📫 Contato
+LinkedIn
+marcosvinicius201118@gmail..com 
+
+---
+
+⭐ Em constante aprendizado e evolução!
